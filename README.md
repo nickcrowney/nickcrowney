@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[<html>
+<!--[<html>
   <header>
   
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
@@ -13,7 +13,7 @@
   </body>
 </html>](url)
 [https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg](url)
-
+-->
 <!--
 **nickcrowney/nickcrowney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
