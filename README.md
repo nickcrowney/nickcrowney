@@ -24,7 +24,7 @@
     <img src="https://www.bairesdev.com/wp-content/uploads/2021/07/Expressjs.svg" alt="Node Express Logo" width="70" height="70"/> </a>
  
   <a href="https://www.postgresql.org/">   
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Postgres Logo" width="70" height="70" background-color='white'/></a>
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Postgres Logo" width="70" height="70" style="background-color:white"/></a>
   
 </div>
 
