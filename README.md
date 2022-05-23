@@ -20,11 +20,14 @@
   
   <a href="https://graphql.org/">  
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="GraphQL Logo" width="70" height="70"/> </a>
-  <a href="https://expressjs.com/">
-    <img src="https://miro.medium.com/max/724/1*3zRVsT8kakgaloqcU7qI5Q.png" alt="Node Express Logo" width="70"/> </a>
+  
+  
  
   <a href="https://www.postgresql.org/">   
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="Postgres Logo" width="70" height="70" style="background-color:white"/></a>
+  
+  <a href="https://expressjs.com/">
+    <img src="https://miro.medium.com/max/724/1*3zRVsT8kakgaloqcU7qI5Q.png" alt="Node Express Logo" height="70"/> </a>
   
 </div>
 
