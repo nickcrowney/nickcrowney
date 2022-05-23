@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[!['javascript'](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)]
+!['javascript'](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
 
 <!--[<html>
   <header>
