@@ -34,6 +34,8 @@
   
 </div>
 
+![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nickcrowney&count_private=true&show_icons=true&hide=stars,issues&include_all_commits)
+
 
 
 
